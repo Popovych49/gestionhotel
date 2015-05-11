@@ -1,4 +1,4 @@
-package metier;
+package fr.soprasteria.gestionHotel.metier;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

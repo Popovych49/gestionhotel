@@ -1,4 +1,4 @@
-package metier;
+package fr.soprasteria.gestionHotel.metier;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
